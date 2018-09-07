@@ -1,0 +1,6 @@
+/Users/nickhopper/Projects/GTKproject/GTKproject/bin/Debug/GTKproject.exe
+/Users/nickhopper/Projects/GTKproject/GTKproject/bin/Debug/GTKproject.pdb
+/Users/nickhopper/Projects/GTKproject/GTKproject/obj/x86/Debug/GTKproject.csprojResolveAssemblyReference.cache
+/Users/nickhopper/Projects/GTKproject/GTKproject/obj/x86/Debug/GTKproject.csproj.CoreCompileInputs.cache
+/Users/nickhopper/Projects/GTKproject/GTKproject/obj/x86/Debug/GTKproject.exe
+/Users/nickhopper/Projects/GTKproject/GTKproject/obj/x86/Debug/GTKproject.pdb

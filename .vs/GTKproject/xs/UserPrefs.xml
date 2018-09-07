@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{05763AB9-F45E-4B3E-8369-4BC06AA2F4DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTKproject/MainWindow.cs">
+    <Files>
+      <File FileName="GTKproject/MainWindow.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GTKproject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
